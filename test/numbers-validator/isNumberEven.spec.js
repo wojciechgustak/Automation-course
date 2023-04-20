@@ -1,5 +1,5 @@
-import { NumbersValidator } from '../../app/numbers_validator.js';
-import { expect } from 'chai';
+import {NumbersValidator} from '../../app/numbers_validator.js';
+import {expect} from 'chai';
 
 describe('isNumberEven positive tests', () => {
   let validator;
